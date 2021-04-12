@@ -8,3 +8,5 @@ For this final array task, we provide you with a starting array, and you will wo
 4. Finally, join the array items together in a single string called myString, with a separator of " - ".
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays
+
+Live web: https://gitthuma.github.io/arrays-3/
