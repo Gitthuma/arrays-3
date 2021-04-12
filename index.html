@@ -41,6 +41,13 @@
 
     myArray.push("Baby", "Elephant");
 
+    /*Go over each item in the array and add its index number after the name inside parentheses.*/
+
+    myArray.forEach(function(element, index) {
+        let newElement = `${ element } (${ index })`;
+        myArray[index] = newElement;
+    });
+
     // Don't edit the code below here!
 
     const section = document.querySelector('section');
